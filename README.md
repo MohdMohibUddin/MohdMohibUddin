@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)]
+![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 <h1 align="center">Hi 👋, I'm Mohd Mohib Uddin</h1>
 <h3 align="center">Persuing Bachelor's of Engineering in IT from MJCET</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
